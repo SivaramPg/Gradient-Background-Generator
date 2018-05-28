@@ -20,7 +20,7 @@ h1 {
     width: auto;
     height: auto;
     padding: 2rem;
-    margin: 2.5rem auto 0 auto;
+    margin: 2.5rem auto 5rem auto;
     text-align: center;
     text-transform: uppercase;
 }
@@ -59,7 +59,7 @@ button {
     font-size: 2rem;
     font-family: "Inconsolata", monospace;
     width: 60%;
-    margin: 2.5rem auto 7rem auto;
+    margin: 2.5rem auto 10rem auto;
     padding: 1rem 0;
     background-color: rgba(255, 255, 255, 0.5);
     color: black;
@@ -88,7 +88,7 @@ hr {
     padding: 0.2rem;
     background-color: dodgerblue;
     width: 15%;
-    margin: 1rem auto 2rem auto;
+    margin: 1rem auto 5rem auto;
     border-radius: 10rem;
     border: 0;
 }
